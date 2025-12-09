@@ -5,6 +5,7 @@
   Lublin, Poland • [w00jcikjakub@gmail.com](mailto:w00jcikjakub@gmail.com) • +48 513 349 244 • [LinkedIn](https://www.linkedin.com/in/jakubdwojcik) • [GitHub](https://github.com/W00jo) • [itch.io](https://wuj0.itch.io)
 
 </div>
+
 ## Experience
 
 **Fundacja Twórczości, Edukacji i Animacji Młodzieży “Teatrikon”** - Lublin, Poland  
