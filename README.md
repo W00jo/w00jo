@@ -10,8 +10,6 @@ I combine creative design with strong **project management**, **documentation** 
 
 [**📄 View my full Verified CV**](./CV.md)
 
----
-
 ### Tech stack
 My primary engine is **Godot**, supported by a versatile toolset for 2D/3D art and production management.
 
@@ -26,22 +24,18 @@ My primary engine is **Godot**, supported by a versatile toolset for 2D/3D art a
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Game Design Docs](https://img.shields.io/badge/Documentation-GDD-lightgrey?style=for-the-badge&logo=readme&logoColor=black)
 
----
-
 ### Active projects
 
 | Project | About |
 | :--- | :--- |
 | **[Sandomiria Demonicum](https://github.com/W00jo/sandomiria-demonicum)** | **Passion project.** An 80s-inspired Dark Fantasy game set in my hometown, *Sandomierz*. |
-| **[Game Jam Plus 2025](https://github.com/W00jo/game-jam-plus-2025)** | **Team Lead.** Currently polishing our entry for the 2025 season. |
-| **Bachelor's Thesis** | **Researcher.** Investigating the use of *claymation* in video games. |
-
----
+| **[Game Jam Plus 2025](https://github.com/W00jo/game-jam-plus-2025)** | Currently polishing our team's entry for the 2025 season. |
+| **Bachelor's Thesis** | On *claymation* in video games. |
 
 ### Community & Leadership
 I am passionate about organizing creative spaces for developers.
-* **Co-Organizer & Vice-President:** [Cyberculture Student Research Club](https://www.umcs.pl) — Managing 10-person dev teams and academic research projects.
-* **Events:** Active participant and organizer in local Game Jams.
+* **Co-Organizer & Vice-President:** [Studenckie Koło Naukowe Cyberkultury](https://www.umcs.pl/pl/studenckie-kolo-naukowe-cyberkultury,31678.htm).
+* **Events:** Active participant in Game Jams.
 
 <div align="left">
 
