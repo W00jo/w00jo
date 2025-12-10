@@ -38,7 +38,7 @@ I am passionate about organizing creative spaces for developers.
 
 * **Co-Organizer & Vice-President** in [Studenckie Koło Naukowe Cyberkultury](https://www.umcs.pl/pl/studenckie-kolo-naukowe-cyberkultury,31678.htm).
 * **Active participant** in Game Jams.
-* **Supporter of [Lublin GameDev](https://lublingamedev.pl/).** I'm a regular attendee rooting for the Eastern Poland gamedev scene to go big! 🚀
+* **Supporter of [Lublin GameDev](https://www.lublin-gamedev.pl).** I'm a regular attendee rooting for the Eastern Poland gamedev scene to go big! 🚀
 
 <div align="left">
 
