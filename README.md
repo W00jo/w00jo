@@ -8,7 +8,7 @@ I describe myself as a "jack of all trades" in game development. A friend once c
 
 I combine creative design with strong **project management**, **documentation** skills, and coding/working on the engine, as much as I am able to. I believe that a well-written Game Design Document (GDD) is just as important as clean code (or as close to one as I am able to get).
 
-[**📄 View my full Verified CV**](./CV.md)
+[**📄 View my full Verified CV**](./CV.md) or [here](./Resume.pdf)
 
 ### Tech Stack
 My primary engine is **Godot**, supported by a versatile toolset for 2D/3D art and verified agile workflows.
