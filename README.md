@@ -1,5 +1,6 @@
 # Hi, I'm Jakub 👋
-### a.k.a. Wujo
+
+## a.k.a. Wujo
 
 I am an **Aspiring Game Developer** and **student** based in Lublin, Poland. Amongst hundreds of hours put into Skyrim and games alike, I find myself enjoying match-3 the most...
 
@@ -10,7 +11,7 @@ Though I have a preference for combining game/level/quest design with strong **p
 
 [**📄 View my full verified CV**](./CV.md) or [here](./Resume.pdf)
 
-### Tech Stack
+## Tech Stack
 My primary engine is **Godot**, supported by a versatile toolset for 2D/3D art and verified agile workflows.
 
 ![Godot Engine](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
@@ -33,7 +34,7 @@ My primary engine is **Godot**, supported by a versatile toolset for 2D/3D art a
 | **[Game Jam Plus](https://github.com/W00jo/game-jam-plus-2025)** | Currently polishing our team's entry for the 2025 season. |
 | **Bachelor's Thesis** | Dithyramb of *claymation* in video games. |
 
-### Community & Leadership
+## Community & Leadership
 I am passionate about organizing creative spaces for developers.
 
 * **Co-Organizer & Vice-President** in [Studenckie Koło Naukowe Cyberkultury](https://www.umcs.pl/pl/studenckie-kolo-naukowe-cyberkultury,31678.htm).
