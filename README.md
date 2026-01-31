@@ -6,9 +6,9 @@ I am an **Aspiring Game Developer** and **student** based in Lublin, Poland. Amo
 I describe myself as a "jack of all trades" in game development. A friend once called me:
 > *"The idea guy that actually does something."*
 
-I combine creative design with strong **project management**, **documentation** skills, and coding/working on the engine, as much as I am able to. I believe that a well-written Game Design Document (GDD) is just as important as clean code (or as close to one as I am able to get).
+Though I have a preference for combining game/level/quest design with strong **project management**, **documentation** skills, and coding/working on the engine, as much as I am able to. I believe that a well-written documentation is just as important any other aspect of the game :)
 
-[**📄 View my full Verified CV**](./CV.md) or [here](./Resume.pdf)
+[**📄 View my full verified CV**](./CV.md) or [here](./Resume.pdf)
 
 ### Tech Stack
 My primary engine is **Godot**, supported by a versatile toolset for 2D/3D art and verified agile workflows.
