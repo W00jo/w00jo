@@ -31,8 +31,7 @@ My primary engine is **Godot**, supported by a versatile toolset for 2D/3D art a
 | Project | About |
 | :--- | :--- |
 | **[Sandomiria Demonicum](https://github.com/W00jo/sandomiria-demonicum)** | **Passion project.** An 80s-inspired Dark Fantasy game set in my hometown, *Sandomierz*. |
-| **[Global Game Jam 2026](https://github.com/W00jo/mask-off)** | We are jamming as we speak! |
-| **Bachelor's Thesis** | Dithyramb of *claymation* in video games. |
+| **Bachelor's Thesis** | On *claymation* in video games (not only theory but practical research too!) |
 
 ## Community & Leadership
 I am passionate about organizing creative spaces for developers.
